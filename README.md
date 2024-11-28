@@ -1,38 +1,42 @@
-# Hi there 👋 I'm Arkadiy
+# Обо мне
 
-## My badge area
+Привет! Меня зовут Аркадий. Я преподаватель различных IT-дисциплин в университете и колледже, а также разработчик мобильных приложений.
 
-### Artificial Intelligence
-![chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+## 📚 Образование
 
-### Database
+- **Владивостокский государственный университет (ВВГУ)**  
+  - **Степень**: Аспирантура  
+  - **Направление**: 2.3.1 Системный анализ, управление и обработка информации, статистика
+  - **Годы обучения**: 2022 – настоящее время
 
-![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+- **Владивостокский государственный университет (ВВГУ)**  
+  - **Степень**: Магистратура  
+  - **Направление**: 09.04.03 Прикладная информатика (Искусственный интеллект и машинное обучение в управлении и принятии решений)
+  - **Годы обучения**: 2022 – 2024
+ 
+- **Владивостокский государственный университет (ВВГУ)**  
+  - **Степень**: Бакалавриат 
+  - **Направление**: 09.03.02 Информационные системы и технологии  
+  - **Годы обучения**: 2018 – 2022
 
-### Design
+## 👨🏻‍💻 Опыт работы
 
-![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- **Владивостокский государственный университет (ВВГУ)**  
+  - **Должность**: Преподаватель
+  - **Период**: ноябрь 2021 - настоящее время
 
-### Frameworks and Library
+- **ООО "Планпаралия"**  
+  - **Должность**: Python-разработчик, Android-разработчик
+  - **Период**: апрель 2023 - апрель 2024
 
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![fastapi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+- **ООО "Идея" (Зеленый остров)**  
+  - **Должность**: Системный аналитик
+  - **Период**: март 2021 - май 2021
+ 
+## 💻 Навыки
 
-### IDE
-
-![androidstudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-### Languages
-
-![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,fastapi,figma,git,kotlin,latex,mysql,postman,py,pytorch,qt,swift" />
+  </a>
+</p>
