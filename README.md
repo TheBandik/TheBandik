@@ -37,6 +37,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,fastapi,figma,git,kotlin,latex,mysql,postman,py,pytorch,qt,swift" />
+    <img src="https://skillicons.dev/icons?i=py,swift,,fastapi,pytorch,qt,,mysql,postgres,,git,postman,docker,figma" />
   </a>
 </p>
