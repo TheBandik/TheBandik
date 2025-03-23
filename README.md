@@ -20,7 +20,7 @@ A service for tracking consumed media, such as movies, books, games, and more.
 
 Easily log and organize your watched, read, and played content in one place, with support for franchises and series.  
 
-[Link to repo](https://github.com/TheBandik)
+[Link to repo](https://github.com/TheBandik/Horizon)
 
 ## 💻 Skills  
 
