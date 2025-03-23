@@ -1,44 +1,53 @@
-# Обо мне
+# 👋 About Me  
+Hi! My name is Arkadiy. I currently teach various IT disciplines at VVSU.  
 
-Привет! Меня зовут Аркадий. В настоящее время преподаю различные IT-дисциплины в университете ВВГУ.
+I specialize in backend and mobile development.  
 
-Специализируюсь на бэкенд и мобильной разработке.
+## 👨🏻‍💻 Work Experience  
+- **Lecturer, VVSU** (2021 – present)  
+- **Python / Android Developer, Planparalia LLC** (2023 – 2024)  
+- **System Analyst, Idea LLC** (2021)  
 
-## 📚 Образование
+## 📚 Education  
+- **VVSU** — PhD Student, *Systems Analysis & Data Processing* (2024 – present)  
+- **VVSU** — Master’s, *AI & Machine Learning* (2022 – 2024)  
+- **VVSU** — Bachelor’s, *Information Systems & Technologies* (2018 – 2022)  
 
-- **Владивостокский государственный университет (ВВГУ)**  
-  - **Степень**: Аспирантура  
-  - **Направление**: 2.3.1 Системный анализ, управление и обработка информации, статистика
-  - **Годы обучения**: 2024 – настоящее время
+## 🚀 Pet Projects  
 
-- **Владивостокский государственный университет (ВВГУ)**  
-  - **Степень**: Магистратура  
-  - **Направление**: 09.04.03 Прикладная информатика (Искусственный интеллект и машинное обучение в управлении и принятии решений)
-  - **Годы обучения**: 2022 – 2024
- 
-- **Владивостокский государственный университет (ВВГУ)**  
-  - **Степень**: Бакалавриат 
-  - **Направление**: 09.03.02 Информационные системы и технологии  
-  - **Годы обучения**: 2018 – 2022
+### 🌅 Horizon
+A service for tracking consumed media, such as movies, books, games, and more.  
 
-## 👨🏻‍💻 Опыт работы
+Easily log and organize your watched, read, and played content in one place, with support for franchises and series.  
 
-- **Владивостокский государственный университет (ВВГУ)**  
-  - **Должность**: Преподаватель
-  - **Период**: ноябрь 2021 - настоящее время
+[Link to repo](https://github.com/TheBandik)
 
-- **ООО "Планпаралия"**  
-  - **Должность**: Python-разработчик, Android-разработчик
-  - **Период**: апрель 2023 - апрель 2024
+## 💻 Skills  
 
-- **ООО "Идея" (Зеленый остров)**  
-  - **Должность**: Системный аналитик
-  - **Период**: март 2021 - май 2021
- 
-## 💻 Навыки
-
+### 🔤 Programming Languages  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,swift,,fastapi,pytorch,qt,,mysql,postgres,,git,postman,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=py,swift,ts" />
+  </a>
+</p>
+
+### 📚 Frameworks & Libraries  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,qt,react" />
+  </a>
+</p>
+
+### 🗄️ Databases  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  </a>
+</p>
+
+### 🔧 Tools  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,postman,docker,figma" />
   </a>
 </p>
