@@ -25,27 +25,27 @@ Easily log and organize your watched, read, and played content in one place, wit
 ### 🔤 Programming Languages  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,swift,ts" />
+    <img src="https://skillicons.dev/icons?i=py,java,swift,ts" />
   </a>
 </p>
 
 ### 📚 Frameworks & Libraries  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,pytorch,qt,react" />
+    <img src="https://skillicons.dev/icons?i=fastapi,spring,pytorch,qt,react" />
   </a>
 </p>
 
 ### 🗄️ Databases  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
   </a>
 </p>
 
 ### 🔧 Tools  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,docker,figma" />
+    <img src="https://skillicons.dev/icons?i=git,postman,docker,kafka,figma" />
   </a>
 </p>
